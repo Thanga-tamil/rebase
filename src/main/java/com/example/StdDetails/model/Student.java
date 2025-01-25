@@ -19,5 +19,6 @@ public class Student {
     private String department;
 
     private String rebase;
+    privae String workTree;
 
 }
