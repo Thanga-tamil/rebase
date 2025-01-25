@@ -18,5 +18,6 @@ public class Student {
     private String standard;
     private String department;
 
+    private String rebase;
 
 }
